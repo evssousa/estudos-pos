@@ -2,6 +2,7 @@
 import java.util.Scanner;
 
 class Main {
+    @SuppressWarnings("resource")
     public static void main(String[] args) {
 
         // SAÍDA DE DADOS, EM JAVA, PODE-SE USAR:
